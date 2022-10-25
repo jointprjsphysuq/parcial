@@ -1,4 +1,19 @@
-# parcial
-This repository contains an exploratory data analysis done over data from chess games in lichess.org
+# Computational Physics: Exam #1
 
-The overall objective is the showcase the possibility of extracting meaningful information from 200k chess games which contain both numerical and categorical variates.
+This repository contains a jupyter notebook with an exploratory data analysis (EDA) of a set of data with information from 200k chess games played in the platform [lichess.org](lichess.org) during May 2019. The [dataset](https://web.chessdigits.com/data) has both numerical and categorical variates such as elo and eco opening, respectively.
+
+![Lichess logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Landscape-Lichess-logo.jpg)
+
+The main objective of this EDA was to determine the statistical relations between many of the variates in order to establish whether the dataset is suitable for machine learning (ML) or not. Furthermore, the size of the dataset permitted the execution of more precise hypothesis testing meaning that, overall, many of the tests resulted in p-values below the established threshold. In that sense, data visualization techniques provided greater insight to determine if the statistical significance predicted by the tests were relevant.
+
+## Remarks
+
+1. The tests include: two goodness of fit tests, KS and $\chi^2$; three analysis of variance tests (ANOVA), for checking differences among the means of certain groups; two statistical independence tests, $\chi^2$; and one A/B test, a binomial test.
+2. All the tests where done using ```scipy.stats``` module functionality.
+3. The notebook has a plethora of graphs for regular frequency visualization.
+4. The authors' take full responsability upon unnoticed mistakes.
+
+### License
+
+The code here can be used according to CC BY-NC 4.0 License
+![License]([https://co.creativecommons.net/wp-content/uploads/sites/27/2008/02/by.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1200px-Cc_by-nc_icon.svg.png))
