@@ -1,6 +1,6 @@
 # Computational Physics: Exam #1
 
-This repository contains a jupyter notebook with an exploratory data analysis (EDA) of a set of data with information from 200k chess games played in the platform [lichess.org](lichess.org) during May 2019. The [dataset](https://web.chessdigits.com/data), ready for analysis, has both numerical and categorical variates such as elo and eco opening, respectively.
+This repository contains a jupyter notebook with an exploratory data analysis (EDA) of a set of data with information from 200k chess games played in the platform [lichess.org](lichess.org) during May 2019. The [dataset](https://web.chessdigits.com/data), ready for analysis, has both numerical and categorical variates such as elo and eco opening, respectively. The specifics of the dataset can be checked loading the ```modified_datset``` file.
 
 ![Lichess logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Landscape-Lichess-logo.jpg)
 
