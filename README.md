@@ -15,5 +15,4 @@ The main objective of this EDA was to determine the statistical relations betwee
 
 ### License
 
-The code here can be used according to CC BY-NC 4.0 License
-![License]([https://co.creativecommons.net/wp-content/uploads/sites/27/2008/02/by.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cc_by-nc_icon.svg/1200px-Cc_by-nc_icon.svg.png))
+The code here can be used according to CC BY-NC 4.0 License.
