@@ -11,7 +11,7 @@ The main objective of this EDA was to determine the statistical relations betwee
 1. The tests include: two goodness of fit tests, KS and $\chi^2$; three analysis of variance tests (ANOVA), for checking differences among the means of certain groups; two statistical independence tests, $\chi^2$; and one A/B test, a binomial test.
 2. All the tests where done using ```scipy.stats``` module functionality.
 3. The notebook has a plethora of graphs for regular frequency visualization.
-4. The authors' take full responsability for any unnoticed mistakes.
+4. The authors' take full responsibility for any unnoticed mistakes.
 
 ### License
 
